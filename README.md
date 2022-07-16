@@ -16,4 +16,4 @@ mvn test
 
 ## Reporte
 Una vez ejecutado el proyecto podemos ver el reporte en el siguiente archivo.<br>
-/target/cucumber-html-reports/overview-features.html
+challenge-api-pet-store/target/cucumber-html-reports/overview-features.html
